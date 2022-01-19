@@ -1,0 +1,14 @@
+C:\Users\SHAIK\Desktop\practice\Demo1sir\Demo1sir\bin\Debug\netcoreapp3.1\Demo1sir.exe
+C:\Users\SHAIK\Desktop\practice\Demo1sir\Demo1sir\bin\Debug\netcoreapp3.1\Demo1sir.deps.json
+C:\Users\SHAIK\Desktop\practice\Demo1sir\Demo1sir\bin\Debug\netcoreapp3.1\Demo1sir.runtimeconfig.json
+C:\Users\SHAIK\Desktop\practice\Demo1sir\Demo1sir\bin\Debug\netcoreapp3.1\Demo1sir.runtimeconfig.dev.json
+C:\Users\SHAIK\Desktop\practice\Demo1sir\Demo1sir\bin\Debug\netcoreapp3.1\Demo1sir.dll
+C:\Users\SHAIK\Desktop\practice\Demo1sir\Demo1sir\bin\Debug\netcoreapp3.1\Demo1sir.pdb
+C:\Users\SHAIK\Desktop\practice\Demo1sir\Demo1sir\obj\Debug\netcoreapp3.1\Demo1sir.csproj.AssemblyReference.cache
+C:\Users\SHAIK\Desktop\practice\Demo1sir\Demo1sir\obj\Debug\netcoreapp3.1\Demo1sir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHAIK\Desktop\practice\Demo1sir\Demo1sir\obj\Debug\netcoreapp3.1\Demo1sir.AssemblyInfoInputs.cache
+C:\Users\SHAIK\Desktop\practice\Demo1sir\Demo1sir\obj\Debug\netcoreapp3.1\Demo1sir.AssemblyInfo.cs
+C:\Users\SHAIK\Desktop\practice\Demo1sir\Demo1sir\obj\Debug\netcoreapp3.1\Demo1sir.csproj.CoreCompileInputs.cache
+C:\Users\SHAIK\Desktop\practice\Demo1sir\Demo1sir\obj\Debug\netcoreapp3.1\Demo1sir.dll
+C:\Users\SHAIK\Desktop\practice\Demo1sir\Demo1sir\obj\Debug\netcoreapp3.1\Demo1sir.pdb
+C:\Users\SHAIK\Desktop\practice\Demo1sir\Demo1sir\obj\Debug\netcoreapp3.1\Demo1sir.genruntimeconfig.cache
